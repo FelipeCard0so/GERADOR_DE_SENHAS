@@ -8,7 +8,9 @@ Gerador de senhas de alta segurança desenvolvido em Python, utilizando o módul
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Security](https://img.shields.io/badge/security-CSPRNG-orange)
 
-O **Secure Pass Generator PRO** é uma ferramenta robusta de linha de comando para geração de senhas resilientes. Diferente de geradores comuns que utilizam a biblioteca `random`, este projeto utiliza o módulo `secrets`, garantindo que as senhas geradas sejam criptograficamente seguras e adequadas para gerenciamento de segredos e senhas críticas.
+O **Secure Pass Generator PRO** é uma ferramenta robusta de linha de comando para geração de senhas resilientes.
+Diferente de geradores comuns que utilizam a biblioteca `random`, este projeto utiliza o módulo `secrets`,
+garantindo que as senhas geradas sejam criptograficamente seguras e adequadas para gerenciamento de segredos e senhas críticas.
 
 ## ✨ Funcionalidades
 
